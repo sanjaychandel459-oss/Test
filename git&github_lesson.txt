@@ -10,7 +10,8 @@ Other Commands
 1 git log 
 2 git reset filename (unstage way)
 3 git diff (differnce check )
-4 
+4 git show 
+
 
 
 Steps 

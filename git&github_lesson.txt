@@ -11,7 +11,8 @@ Other Commands
 2 git reset filename (unstage way)
 3 git diff (differnce check )
 4 git show 
-
+5 git branch (feature1 )
+6 git checkout feature1
 
 
 Steps 

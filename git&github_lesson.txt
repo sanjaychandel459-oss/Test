@@ -13,6 +13,7 @@ Other Commands
 4 git show 
 5 git branch (feature1 )
 6 git checkout feature1
+7 git branch -d feature2 
 
 
 Steps 

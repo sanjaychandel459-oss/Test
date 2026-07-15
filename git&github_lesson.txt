@@ -16,7 +16,12 @@ Other Commands
 7 git branch -d feature2 
 8 git merge feature1 
 
-Remote Resorprites
+Remote Resository
+Github 
+1 git remote add origin 
+2 git push -u  origin master 
+
+
 
 
 

@@ -1,0 +1,14 @@
+basic steps 
+1 initialize the resiporty - git init 
+2 add files to staging Area or Stages changes - git add .
+3 review changes - git status 
+4 Comimit the Changes - git commit -m " "
+5 Rollback to previous commit - git reset --hard 
+6 push changes - git push 
+
+Steps 
+1 download and Install 
+2 Configuring User information used across all Local repositories
+   . git config -l 
+   . git config --global user.name "Full Name"
+   . git config --global user.email "Email"

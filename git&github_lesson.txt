@@ -14,6 +14,10 @@ Other Commands
 5 git branch (feature1 )
 6 git checkout feature1
 7 git branch -d feature2 
+8 git merge feature1 
+
+Remote Resorprites
+
 
 
 Steps 

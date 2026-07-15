@@ -21,7 +21,7 @@ Github
 1 git remote add origin 
 2 git push -u  origin master 
 3 git clone https://github.com
-4 git pull i change from local repo
+4 git pull  specail command that work for remote repsorty and fetch commit details and apply all changes to local repsorty
 
 Steps 
 1 download and Install 
